@@ -1,5 +1,10 @@
 ### 源码有注释有文档
 #### 单词可发音
+
+apk下载体验
+链接：https://pan.baidu.com/s/1zyn6kOQ-SlIlNaBt2A0hRw?pwd=8888 
+提取码：8888
+
 #### 安卓原生java语法，sqlite数据库，点击头像进主页看更多作品 下方有联系方式
  <img src='https://img.alicdn.com/imgextra/i2/1658540494/O1CN011dtrU81FWIbYRb8Y9_!!1658540494.jpg' alt='a43.jpg' /></br> 
  <img src='https://img.alicdn.com/imgextra/i1/1658540494/O1CN01q82rsb1FWIbYiTY9t_!!1658540494.jpg' alt='a34.jpg' /></br> 
